@@ -1,5 +1,5 @@
 {
-  "name": "symbols-iterators",
+  "name": "symbols-generators",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barsich/symbols-iterators.git"
+    "url": "git+https://github.com/barsich/symbols-generators.git"
   },
   "author": "barsich",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/barsich/symbols-iterators/issues"
+    "url": "https://github.com/barsich/symbols-generators/issues"
   },
-  "homepage": "https://github.com/barsich/symbols-iterators#readme",
+  "homepage": "https://github.com/barsich/symbols-generators#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
